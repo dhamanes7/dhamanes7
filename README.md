@@ -1,16 +1,24 @@
-## Hi there 👋
+# Shubham Dhamane
 
-<!--
-**dhamanes7/dhamanes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & Business Analyst** | Sudbury, ON, Canada | [LinkedIn](https://www.linkedin.com/in/dhamanes7)
 
-Here are some ideas to get you started:
+I turn business data into reliable reporting and decision support, from requirements gathering and data modelling to dashboards and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Co-Founder & Lead Business Analyst, The Alpha Nova
+- 4 years in data quality at HERE Technologies, contributing to a 22% reduction in error rate
+- Organizer, Google Developer Group (GDG) Sudbury
+
+## Toolkit
+
+SQL | Power BI (DAX, star schema, data modelling) | Tableau | Python (pandas, Streamlit) | ETL | AI-assisted automation | Excel
+
+## Featured Work
+
+| Project | What it demonstrates | Impact |
+|---|---|---|
+| [HR Reporting Automation](https://github.com/dhamanes7/report-automation) | Python and pandas ETL, config-driven design, Streamlit app packaged to run offline | Reduced report preparation from 6 hours to 30 minutes for an HR team |
+| [VIBGOR Tasks](https://github.com/dhamanes7/vibgor-tasks) | Product requirements to a working React/TypeScript app ([live demo](https://dhamanes7.github.io/vibgor-tasks/)) | Requirements-driven delivery |
+
+## Contact
+
+Open to Data Analyst and Business Analyst opportunities in Canada. Connect with me on [LinkedIn](https://www.linkedin.com/in/dhamanes7).
